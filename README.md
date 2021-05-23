@@ -1,8 +1,5 @@
 ### Hi Everyone, welcome to pde294's github profile! 👋
 
-<!--
-**pde294/pde294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a 2021 Bootcamp grad who is in the process of looking for a new role where I can utilize my data analytics skills. I am interested in leveraging data to help solve problems in a way that is cognizant of the "human" aspect of the customer/participant experience. I believe carefully collected data can help us to understand each other better and create solutions that can be continuously improved upon. In other words, data can change the world for the good! 
 
 ## GitHub Stats
