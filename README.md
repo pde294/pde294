@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi Everyone, welcome to pde294's github profile! 👋
 
 <!--
 **pde294/pde294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a 2021 Bootcamp grad who is in the process of looking for a new role where I can utilize my data analytics skills. I am interested in leveraging data to help solve problems in a way that is cognizant of the "human" aspect of the customer/participant experience. I believe carefully collected data can help us to understand each other better and create solutions that can be continuously improved upon. In other words, data can change the world for the good! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pde294&show_icons=true)
+
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pde294&theme=blue-green)
+
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=pde294)
+
